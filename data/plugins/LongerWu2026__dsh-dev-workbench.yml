@@ -1,0 +1,7 @@
+url: https://github.com/LongerWu2026/dsh-dev-workbench
+name: LongerWu2026/dsh-dev-workbench
+category: workflow
+description:
+  en: A workbench for tasks, pending replies, AI news, knowledge, multi-provider web chats, and developer tools.
+  zh: 集成待办、待回复、AI资讯、知识空间、多AI对话与开发工具的工作台。
+tarball: https://github.com/LongerWu2026/dsh-dev-workbench/releases/download/v0.2.0/dsh-dev-workbench-0.2.0.tgz
